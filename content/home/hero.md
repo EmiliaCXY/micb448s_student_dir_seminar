@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: MICB 448S Introduction to Biological Machines: Harnessing Design Thinking for Biotechnology Innovation
+title: 'MICB 448s Introduction to Biological Machines: Harnessing Design Thinking for Biotechnology Innovation'
 hero_media: book.svg
 design:
   background:
@@ -18,10 +18,10 @@ cta_alt:
   url: docs/
   label: View Documentation
 cta_note:
-  # label: >-
-  #   <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
-  #     Show your product version here:<!-- Automatically filled based on data-repo value -->
-  #   </span>
+  label: >-
+    <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
+      Show your product version here:<!-- Automatically filled based on data-repo value -->
+    </span>
 ---
 
 <!-- Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
